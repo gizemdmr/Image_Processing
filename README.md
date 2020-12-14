@@ -30,4 +30,4 @@ You have to install some library. (keras, pandas, numpy, tensorflow)
 
 ![Image 1](https://github.com/gizemdmr/Image_Processing/blob/master/test_image/EkranAl%C4%B1nt%C4%B1s%C4%B1.PNG)
 
-![Image 2](https://github.com/gizemdmr/Image_Processing/test_image/EkranAlıntısı1.PNG)
+![Image 2](https://github.com/gizemdmr/Image_Processing/blob/master/test_image/EkranAl%C4%B1nt%C4%B1s%C4%B11.PNG)
