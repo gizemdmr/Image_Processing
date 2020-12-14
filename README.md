@@ -27,5 +27,3 @@ You have to install some library. (keras, pandas, numpy, tensorflow)
 [Anaconda]: https://docs.anaconda.com/anaconda/install/
 
 [Miniconda]: https://docs.conda.io/projects/conda/en/latest/user-guide/install/
-
-![image](file:///C:/Users/huawe%C4%B1/Desktop/gizemders/EkranAlıntısı.PNG)
