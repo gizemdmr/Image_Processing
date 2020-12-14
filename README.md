@@ -28,6 +28,6 @@ You have to install some library. (keras, pandas, numpy, tensorflow)
 
 [Miniconda]: https://docs.conda.io/projects/conda/en/latest/user-guide/install/
 
-![Image 1](https://github.com/gizemdmr/Image_Procesiing/test_image/EkranAlıntısı.png)
+![Image 1](https://github.com/gizemdmr/Image_Processing/test_image/EkranAlıntısı.PNG)
 
-![Image 2](https://github.com/gizemdmr/Image_Procesiing/test_image/EkranAlıntısı1.png)
+![Image 2](https://github.com/gizemdmr/Image_Processing/test_image/EkranAlıntısı1.PNG)
